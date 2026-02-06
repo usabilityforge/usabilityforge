@@ -1,0 +1,76 @@
+name: Usability Test Request
+description: Request a usability test for your project or a specific feature.
+title: "[Usability Test] <Short description>"
+labels: ["usability-test", "feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for requesting a usability test from **UsabilityForge**.  
+        Please fill out the details below so I can run a clear, focused test.
+
+  - type: input
+    id: project_link
+    attributes:
+      label: Project Link
+      description: URL to your repo, live demo, or feature branch.
+      placeholder: "https://github.com/your/repo"
+    validations:
+      required: true
+
+  - type: textarea
+    id: what_to_test
+    attributes:
+      label: What should I test?
+      description: Describe the feature, flow, or area you want reviewed.
+      placeholder: "Example: onboarding flow, settings page, new dashboard layout…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: goals
+    attributes:
+      label: What are your goals for this test?
+      description: What do you want to learn or improve?
+      placeholder: "Example: identify confusing steps, find friction, test clarity of instructions…"
+    validations:
+      required: false
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Access the Feature (if needed)
+      description: Include login info, test accounts, or navigation steps.
+      placeholder: "Example: Login with test@test.com / password123 → go to /dashboard → click 'New Project'"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: depth
+    attributes:
+      label: Test Depth
+      description: How deep should the review go?
+      options:
+        - Quick Test (single feature)
+        - Full Usability Review
+        - Comprehensive UX Audit
+    validations:
+      required: true
+
+  - type: textarea
+    id: known_issues
+    attributes:
+      label: Known Issues (optional)
+      description: Anything you already know is broken or incomplete.
+      placeholder: "Optional: list bugs or unfinished areas so I don’t duplicate them."
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra_notes
+    attributes:
+      label: Additional Notes
+      description: Anything else I should know before testing.
+      placeholder: "Deadlines, context, user personas, etc."
+    validations:
+      required: false
