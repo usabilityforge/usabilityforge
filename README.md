@@ -1,6 +1,6 @@
 # 🧪 UsabilityForge — Independent Usability Testing for Developers
 
-Hi, I’m **UsabilityForge** — your dedicated usability tester.  
+Hi, I’m Alex from **UsabilityForge** — your dedicated usability tester.  
 I help developers ship smoother, clearer, more intuitive software by providing **fast, independent usability testing** on real workflows, features, and user journeys.
 
 ---
