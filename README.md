@@ -1,5 +1,29 @@
 # 🧪 UsabilityForge — Independent Usability Testing for Developers
 
+<<<<<<< HEAD
+Hi, I’m **UsabilityForge** — your dedicated usability tester. I help developers ship smoother, clearer, more intuitive software by providing fast, independent usability testing on real workflows, features, and user journeys.
+=======
+Hi, I’m **UsabilityForge** — your dedicated usability tester.  
+I help developers ship smoother, clearer, more intuitive software by providing **fast, independent usability testing** on real workflows, features, and user journeys.
+>>>>>>> 80586a699180a9e07d9ec4012c2a98b1f289b874
+
+---
+
+## 🚀 What I Do
+
+I provide hands-on usability testing for:
+
+<<<<<<< HEAD
+- Web apps
+- Developer tools
+- Open-source projects
+- SaaS products
+- CLI tools
+- Onboarding flows
+- Documentation & README clarity
+
+# 🧪 UsabilityForge — Independent Usability Testing for Developers
+
 Hi, I’m **UsabilityForge** — your dedicated usability tester. I help developers ship smoother, clearer, more intuitive software by providing fast, independent usability testing on real workflows, features, and user journeys.
 
 ---
@@ -131,3 +155,28 @@ If it has a user, I can test it.
 ---
 
 Thanks for stopping by — excited to help you ship something great.
+
+
+---
+
+Thanks for stopping by — excited to help you ship something great.
+=======
+## 🤝 Why Work With Me
+
+- Developers often miss usability issues — I won’t  
+- Fast turnaround  
+- Clear, structured feedback  
+- No fluff, no vague advice  
+- A real human testing your app like a real user
+
+---
+
+## ⭐ Support the Project
+
+If you find my work helpful, consider starring this repo.  
+It helps others discover the service.
+
+---
+
+Thanks for stopping by — excited to help you ship something great.
+>>>>>>> 80586a699180a9e07d9ec4012c2a98b1f289b874
