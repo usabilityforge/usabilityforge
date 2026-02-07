@@ -1,19 +1,15 @@
 # 🧪 UsabilityForge — Independent Usability Testing for Developers
 
-<<<<<<< HEAD
 Hi, I’m **UsabilityForge** — your dedicated usability tester. I help developers ship smoother, clearer, more intuitive software by providing fast, independent usability testing on real workflows, features, and user journeys.
 =======
 Hi, I’m **UsabilityForge** — your dedicated usability tester.  
 I help developers ship smoother, clearer, more intuitive software by providing **fast, independent usability testing** on real workflows, features, and user journeys.
->>>>>>> 80586a699180a9e07d9ec4012c2a98b1f289b874
-
 ---
 
 ## 🚀 What I Do
 
 I provide hands-on usability testing for:
 
-<<<<<<< HEAD
 - Web apps
 - Developer tools
 - Open-source projects
